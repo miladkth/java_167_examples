@@ -1,4 +1,4 @@
-package PrintAnIntegerEnteredByUser;
+package PrintAnIntegerEnteredByUser01;
 
 import java.util.Scanner;
 
