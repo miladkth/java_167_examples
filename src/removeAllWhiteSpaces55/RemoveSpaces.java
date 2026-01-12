@@ -7,6 +7,6 @@ public class RemoveSpaces {
         sentence = sentence.replaceAll("\\s","");
         //sentence = sentence.replace(" ", "");
         //sentence = sentence.replace("|", " ");
-        System.out.println("After replacement: " + sentence);
+        System.out.println("After replacement -> " + sentence);
     }
 }
